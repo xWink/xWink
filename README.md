@@ -1,8 +1,6 @@
-<div align="center" width="50">
+<div align="center">
 
-# xWink
-
-![github stats](https://github-readme-stats.vercel.app/api?username=xWink&show_icons=true)
+# Welcome to My Profile!
 
 </div>
 
@@ -24,6 +22,10 @@
 </div>
 
 <div align="center" width="50">
+
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=xWink&show_icons=true)
 
 ##  Contact Me :speech_balloon:
 
