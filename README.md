@@ -8,7 +8,7 @@
 
 ### My Technical Skills :computer:
 
-<img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff" alt="C"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=kotlin&logoColor=orange"> <img src="https://img.shields.io/badge/-Spring Boot-4dc238?style=flat&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=kotlin&logoColor=orange"> <img src="https://img.shields.io/badge/-Spring Boot-4dc238?style=flat&logo=spring&logoColor=white"> 
 <br />
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript"> <img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
 <br/>
