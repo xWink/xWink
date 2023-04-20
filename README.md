@@ -25,6 +25,6 @@
 
 <br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=xWink&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=xWink&show_icons=true&count_private=true&hide_title=true)
 
 </div>
