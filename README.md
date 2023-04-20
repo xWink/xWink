@@ -27,7 +27,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xWink&show_icons=true)
 
-##  Contact Me :speech_balloon:
-
-<a href="https://www.linkedin.com/in/shawn-kaplan-899724136/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shawn%20Kaplan-blue?style=flat-square&logo=linkedin"></a>
 </div>
